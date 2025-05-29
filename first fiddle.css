@@ -1,0 +1,223 @@
+.imag123 {
+    width: 80%;
+}
+
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+@media (max-width:768px) {
+    .imag123 {
+        width: 100%;
+    }
+
+}
+
+.c {
+    background: url(https://etimg.etb2bimg.com/photo/109958387.cms);
+    width: 100%;
+    height: 450px;
+}
+
+.d {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    padding-top: 137px;
+    color: white;
+}
+
+.e {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.i {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+
+.f {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.our {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.cc {
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    height: 450px;
+}
+
+.g {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    padding-top: 137px;
+    color: white;
+}
+
+.h {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.c2 {
+    background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+    width: 100%;
+    
+
+}
+.ccc{
+    background: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.cccc {
+    background: url(https://pn-paul.netlify.app/image/brands.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.ccccc{
+    background: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.img1{
+    background: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.img2{
+    background: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+
+}
+.img3{
+    background: url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.img4{
+    background: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.img5{
+    background: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.C6{
+    background: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+
+}
+.C7{
+    background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.C8{
+    background: url(https://pn-paul.netlify.app/image/new-careers-1.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+footer {
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+
+footer h2 {
+    font-family: 'prague';
+    font-size: 2 rem;
+    line-height: 50px;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+footer p {
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
+footer .foot-add {
+    padding: 15px;
+}
+
+footer b {
+    color: #fcb21b;
+}
+
+
+
